@@ -28,7 +28,7 @@ class App extends Component {
             ]
         })
     }
-
+    //
     handleDelete = (id) => {
         this.setState({
             files : [
